@@ -49,9 +49,11 @@ A criação de próprio Hook foi um aprendizado enorme onde trouxe mais semânti
 
 Para executar o projeto *local* primeiramente baixamos o projeto em nosso equipamento e utilizamos os comandos:
 > yarn install
+> 
 Logo em seguida:
 
 > yarn run dev
+>
 E a aplicação poderá ser visualizada no endereço [http://localhost:3000](http://localhost:3000)
 
 ## Autor
